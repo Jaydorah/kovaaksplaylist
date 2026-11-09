@@ -1,0 +1,87 @@
+﻿{
+	"playlistName": "AIMCORE Benchmarks S1 - Medium",
+	"playlistId": 489199,
+	"authorSteamId": "76561199090026891",
+	"authorName": "fae fawn",
+	"scenarioList": [
+		{
+			"scenario_name": "AC KittyClick",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC BunnyClick",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC PuppyClick",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC MicroShot",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC WideShot",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC ClusterShot",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC Driftsphere",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC Arcstrafes",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC FlowerXYZ",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC AirDodge",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC PlazaDodge",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC RoboStrafes",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC MicroTS",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC PillTS",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC SpeedTS 360",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC Wispswitch",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC AirSwitch",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC EvaSwitch 360",
+			"play_Count": 1
+		}
+	],
+	"description": "Scenarios made by @robinwobin_",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsClippingBurntorangeCamper",
+	"version": 31,
+	"updated": 1789129628,
+	"isPrivate": false
+}

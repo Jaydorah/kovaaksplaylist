@@ -1,0 +1,111 @@
+﻿{
+	"playlistName": "AoiAimers S1 - Worthless",
+	"playlistId": 295212,
+	"authorSteamId": "76561198390284214",
+	"authorName": "𝘽⁧⁧ 𝙇𝙊𝙊𝘿",
+	"scenarioList": [
+		{
+			"scenario_name": "Close Fast Strafes Easy Invincible",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Close Fast Strafes Invincible",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Midrange Fast Strafes Invincible",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Cata IC Fast Strafes Invincible",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Narrow Strafe",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Narrow Strafe 2",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air no UFO no SKYBOTS",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air Angelic",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air no UFO no SKYBOTS Small 3478",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "L180TI Sparky",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "B180TI Extra Small Sparky",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "PGTI Voltaic 1",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "fuglaab180t Extra Small",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Ascended Tracking 90 Smooth",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Ascended Tracking 90 Small",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Ascended Tracking v3",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Thin Aiming Long",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Thin Aiming Long Invincible",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Thin Gauntlet",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XY Tracking Dodge",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "lgc3 Reborn",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Close FS Easy Dodge",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Tracking God Aoi",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Tracking God Hard Aoi",
+			"play_Count": 1
+		}
+	],
+	"description": "The original AoiAimers S1 playlist, recreated to preserve and publicize for global use.",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsMainingSlowRaid",
+	"version": 31,
+	"updated": 1753934685,
+	"isPrivate": false
+}

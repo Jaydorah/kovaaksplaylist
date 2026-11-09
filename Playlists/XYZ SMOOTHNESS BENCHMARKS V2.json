@@ -1,0 +1,75 @@
+﻿{
+	"playlistName": "                                 XYZ SMOOTHNESS BENCHMARKS V2",
+	"playlistId": 456992,
+	"authorSteamId": "76561199159928133",
+	"authorName": "RVNG thundah",
+	"scenarioList": [
+		{
+			"scenario_name": "SYE Smooth Your Everything",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Spherical Centering II 90",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Spherical Centering II 180 V2",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Bipolar Centering 360 V2",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Anti-Centering V2",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VS60",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VS120",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VSTP Varied V2",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Curvesphere Vertical Altered",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Farmtrack Goated Fixed Altered",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "PTXS 45s",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "PTS FIXED",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "ClockTrack 45s",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Multi Angle Smoothness V2",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Petal Tracking 45s",
+			"play_Count": 1
+		}
+	],
+	"description": "evxl.app/groups/xyz",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsTeleportingSmoothNightfall",
+	"version": 31,
+	"updated": 1779379510,
+	"isPrivate": false
+}

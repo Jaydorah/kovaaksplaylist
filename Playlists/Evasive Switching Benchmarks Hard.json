@@ -1,0 +1,63 @@
+﻿{
+	"playlistName": "Evasive Switching Benchmarks Hard",
+	"playlistId": 419500,
+	"authorSteamId": "76561199025798490",
+	"authorName": "eilish",
+	"scenarioList": [
+		{
+			"scenario_name": "tamTargetSwitch Control Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "tamTargetSwitch Smooth Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Controlsphere TS 30% Smaller 200% HP MORE BOTS",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Smoothbot TS Voltaic Regen Hasin",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Pasu Switch Wide Regen",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "domiSwitch",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Star Tracking Regen - @wa11p1per",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Trippez Smooth Switching Regen Slower + Smaller",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "CircleTS",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "darkSwitch",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Bounce 180 Tracking",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Aimerz+ hopTS Med S1",
+			"play_Count": 1
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsVibratingPulledChat",
+	"version": 31,
+	"updated": 1769974435,
+	"isPrivate": false
+}

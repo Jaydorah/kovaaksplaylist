@@ -1,0 +1,111 @@
+﻿{
+	"playlistName": "Revosect S5 - Intermediate",
+	"playlistId": 385025,
+	"authorSteamId": "76561199090026891",
+	"authorName": "fae fawn",
+	"scenarioList": [
+		{
+			"scenario_name": "EvoClick Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "StrawberryClick Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1w5ts vbr Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1w4t Pressure Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Pasu Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "SpringClick Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "SnowClick Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Floating Heads Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "FloodTrack Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VTP Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Tornadosphere Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Leapstrafes Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Plaza Pure Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Plaza Smooth Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air Pure Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air Smooth Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AngleSwitch Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "DotSwitch Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "NovaSwitch Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "WaveSwitch Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "SpringTS Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "WhisphereTS Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "PasuTS Revosect Int",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "SmoothTS Revosect Int",
+			"play_Count": 1
+		}
+	],
+	"description": "@robinwobin_",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsAdventuringRoyalpurpleWindow",
+	"version": 31,
+	"updated": 1760021020,
+	"isPrivate": false
+}

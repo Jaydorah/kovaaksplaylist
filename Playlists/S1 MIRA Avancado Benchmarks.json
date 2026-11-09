@@ -1,0 +1,63 @@
+﻿{
+	"playlistName": "S1 MIRA Avancado Benchmarks",
+	"playlistId": 185800,
+	"authorSteamId": "76561198114073067",
+	"authorName": "MIRA candy",
+	"scenarioList": [
+		{
+			"scenario_name": "Multiclick Hard MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Fourshot Hard MIRA Fixed",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Bounceshot Hard MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Pasu Hard MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Smoothbot Hard MIRA Fixed",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "PTI Hard MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Plaza Hard MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AA4 Hard MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VelozSwitch Hard MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "kndTS Wide Hard MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "r3dSwitch Hard MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "FugaSwitch Hard MIRA Fixed",
+			"play_Count": 1
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsChallengingSmallClass",
+	"version": 31,
+	"updated": 1691940107,
+	"isPrivate": false
+}

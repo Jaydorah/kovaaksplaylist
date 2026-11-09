@@ -1,0 +1,87 @@
+﻿{
+	"playlistName": "AIMERZ+ BENCHMARKS HARD S1 ",
+	"playlistId": 196787,
+	"authorSteamId": "76561199217111885",
+	"authorName": "wa11p1per the creator",
+	"scenarioList": [
+		{
+			"scenario_name": "Aimerz+ pipeClick Hard S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ hopClick Hard S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ sunClick Hard S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ ww2t Hard S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ 1w3ts Hard S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ 1w4ts HF Hard S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ Smoothbot Hard S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ PTI Hard S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ PreciseTrack Hard S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ PipeTrack Hard S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ VGS Hard S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ VAS Hard S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ pivoTS Hard S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ nuTS Hard S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ goaTS Hard S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ cheaTS Hard S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ hopTS Hard S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ caTS Hard S1",
+			"play_Count": 13
+		}
+	],
+	"description": "@AimerzHQ, @wa11p1per, @KovaaKs",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsGriefingGoldenrodQuest",
+	"version": 31,
+	"updated": 1697173396,
+	"isPrivate": false
+}

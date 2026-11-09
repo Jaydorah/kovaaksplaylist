@@ -1,0 +1,63 @@
+﻿{
+	"playlistName": "Aim Benchmarks Season 1 - Adaptive",
+	"playlistId": 352680,
+	"authorSteamId": "76561198066375616",
+	"authorName": "DrUninstall",
+	"scenarioList": [
+		{
+			"scenario_name": "Clicking Static 5 Adapt",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Clicking 3 Wide Adapt",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Ground Tracking Adapt",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air Tracking 180 Adapt",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Clicking Bounce Adapt",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Clicking Dodgy Adapt",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Smooth Horizontal Tracking Adapt",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Smooth Vertical Tracking Adapt",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Switching Humanoid Adapt",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Switching Spheres Adapt",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Movement Tracking Adapt",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Movement Clicking Bounce Adapt",
+			"play_Count": 1
+		}
+	],
+	"description": "Adaptive version of the first KovaaK's Aim Benchmarks released (Season 1).",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsChokingShinyNightfall",
+	"version": 31,
+	"updated": 1751030397,
+	"isPrivate": false
+}

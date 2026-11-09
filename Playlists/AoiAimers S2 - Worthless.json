@@ -1,0 +1,79 @@
+﻿{
+	"playlistName": "AoiAimers S2 - Worthless",
+	"playlistId": 295213,
+	"authorSteamId": "76561198390284214",
+	"authorName": "𝘽⁧⁧ 𝙇𝙊𝙊𝘿",
+	"scenarioList": [
+		{
+			"scenario_name": "Centering I Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Centering I 180",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Centering II 180",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VSS GP9",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VSS GPAIO",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VSS GPAIO thin far bots",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Controlsphere",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "LilithXYZ",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Psalm Control Lilith medium",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Ground Plaza",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Ground Plaza Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Ground Plaza NO UFO",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Close Long Strafes Invincible",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Midrange Long Strafes Invincible",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "gp close long strafes",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Kindaclose Long Strafes",
+			"play_Count": 1
+		}
+	],
+	"description": "The original AoiAimers S2 playlist, recreated to preserve and publicize for global use.",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsMountingSmallGoat",
+	"version": 31,
+	"updated": 1753934688,
+	"isPrivate": false
+}

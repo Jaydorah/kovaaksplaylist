@@ -1,0 +1,87 @@
+﻿{
+	"playlistName": "         cAt Benchmarks       [ E A S Y ]",
+	"playlistId": 229617,
+	"authorSteamId": "76561199217111885",
+	"authorName": "wa11p1per the creator",
+	"scenarioList": [
+		{
+			"scenario_name": "cAt 3 cats wide",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt 5 cats micro",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt 4 cats",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt purrClick Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt pawClick Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt yarnClick Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt laserTrack Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt meowTrack Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt yarnTrack Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt sausageTrack Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt fluffyTrack Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt furTrack Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt mealSwitch Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt tabbySwitch Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt wobbleSwitch Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt tailSwitch Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt snortSwitch Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt yarnSwitch Easy",
+			"play_Count": 1
+		}
+	],
+	"description": "discord.gg/GcvFdnabGD",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsBobbingPeachPrism",
+	"version": 31,
+	"updated": 1711379572,
+	"isPrivate": false
+}

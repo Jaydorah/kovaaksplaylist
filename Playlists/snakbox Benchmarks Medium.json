@@ -1,0 +1,123 @@
+﻿{
+	"playlistName": "snakbox Benchmarks Medium",
+	"playlistId": 486309,
+	"authorSteamId": "76561198369953994",
+	"authorName": "snak",
+	"scenarioList": [
+		{
+			"scenario_name": "1wall5targets_pasu Reload",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT Bounceshot Viscose Medium",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Popcorn MV Intermediate",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT Floating Heads Novice S5 Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "psalmTS angelic click 30% Larger",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Star Clicking 30% Larger",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1w6ts reload v2 20% bigger",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1w2ts Perfected Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "ww4t Voltaic",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "PGTI Voltaic Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Smoothbot Voltaic 90% Speed",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT PGT Intermediate S5 snakbox",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Controlsphere",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Whisphere Small & Slow Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air Angelic 4 Voltaic Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air Voltaic Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air Angelic Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Aimerz+ VGS Easy S1",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT DotTS Intermediate S5 snakbox",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT skyTS Intermediate",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT psalmTS Intermediate",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "kinTS Voltaic Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "B180T Voltaic Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "snakSwitch Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt snortSwitch Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "domiSwitch Easy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT ControlTS Novice S5 30% Smaller",
+			"play_Count": 1
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsHipfiringMagentaLurker",
+	"version": 31,
+	"updated": 1790191190,
+	"isPrivate": false
+}

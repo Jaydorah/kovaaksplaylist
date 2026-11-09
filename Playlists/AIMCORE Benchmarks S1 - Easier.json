@@ -1,0 +1,87 @@
+﻿{
+	"playlistName": "AIMCORE Benchmarks S1 - Easier",
+	"playlistId": 489198,
+	"authorSteamId": "76561199090026891",
+	"authorName": "fae fawn",
+	"scenarioList": [
+		{
+			"scenario_name": "AC KittyClick Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC BunnyClick Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC PuppyClick Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC MicroShot Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC WideShot Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC ClusterShot Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC Driftsphere Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC Arcstrafes Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC FlowerXYZ Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC AirDodge Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC PlazaDodge Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC RoboStrafes Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC MicroTS Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC PillTS Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC SpeedTS 360 Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC Wispswitch Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC AirSwitch Easier",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC EvaSwitch 360 Easier",
+			"play_Count": 1
+		}
+	],
+	"description": "Scenarios made by @robinwobin_",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsClickingBuggedFamas",
+	"version": 31,
+	"updated": 1789129627,
+	"isPrivate": false
+}

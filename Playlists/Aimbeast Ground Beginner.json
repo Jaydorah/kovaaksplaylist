@@ -1,0 +1,43 @@
+﻿{
+	"playlistName": "Aimbeast Ground Beginner",
+	"playlistId": 490381,
+	"authorSteamId": "76561199159928133",
+	"authorName": "RVNG thundah",
+	"scenarioList": [
+		{
+			"scenario_name": "SouljahStrafes Beginner",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "StelosStrafes Beginner",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VexinStrafes Beginner",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "MbmStrafes Beginner",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "SleepStrafes Beginner",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "RobidashkaStrafes Beginner",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "FlickerStrafes Beginner",
+			"play_Count": 1
+		}
+	],
+	"description": "@RVNGCOLLECTIVE on Twitter/X.",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsBackflippingPickedXur",
+	"version": 31,
+	"updated": 1788118288,
+	"isPrivate": false
+}

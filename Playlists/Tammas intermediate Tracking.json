@@ -1,0 +1,47 @@
+﻿{
+	"playlistName": "Tammas intermediate Tracking",
+	"playlistId": 159531,
+	"authorSteamId": "76561199110620455",
+	"authorName": "Pizza",
+	"scenarioList": [
+		{
+			"scenario_name": "gp close long strafes",
+			"play_Count": 8
+		},
+		{
+			"scenario_name": "B180T Sparky Easy",
+			"play_Count": 6
+		},
+		{
+			"scenario_name": "Wide Wall 6Targets",
+			"play_Count": 8
+		},
+		{
+			"scenario_name": "Cata IC Long Strafes Invincible",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "Tile Frenzy 180 Strafing 200 Percent Tracking",
+			"play_Count": 8
+		},
+		{
+			"scenario_name": "Smoothness Trainer",
+			"play_Count": 6
+		},
+		{
+			"scenario_name": "FuglaaXYVert Easy",
+			"play_Count": 4
+		},
+		{
+			"scenario_name": "Tile Frenzy 180 Strafing Mixed",
+			"play_Count": 9
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsTimewarpingGoatedEco",
+	"version": 31,
+	"updated": 1682026127,
+	"isPrivate": false
+}

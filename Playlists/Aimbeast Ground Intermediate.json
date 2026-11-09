@@ -1,0 +1,43 @@
+﻿{
+	"playlistName": "Aimbeast Ground Intermediate",
+	"playlistId": 490380,
+	"authorSteamId": "76561199159928133",
+	"authorName": "RVNG thundah",
+	"scenarioList": [
+		{
+			"scenario_name": "SouljahStrafes Intermediate",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "StelosStrafes Intermediate",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VexinStrafes Intermediate",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "MbmStrafes Intermediate",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "SleepStrafes Intermediate",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "RobidashkaStrafes Intermediate",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "FlickerStrafes Intermediate",
+			"play_Count": 1
+		}
+	],
+	"description": "@RVNGCOLLECTIVE on Twitter/X.",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsAscendingPickedCheater",
+	"version": 31,
+	"updated": 1788118149,
+	"isPrivate": false
+}

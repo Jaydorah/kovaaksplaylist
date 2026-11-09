@@ -1,0 +1,111 @@
+﻿{
+	"playlistName": "                                           XYZ Benchmarks - Hard",
+	"playlistId": 380020,
+	"authorSteamId": "76561199159928133",
+	"authorName": "RVNG thundah",
+	"scenarioList": [
+		{
+			"scenario_name": "XYZ EvolveClick",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ MixClick",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ DepthClick",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ XYZClick",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ BounceClick",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ 3DClick",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ StarClick",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ AxisClick",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ SmoothTrack",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ BounceTrack",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ JagTrack",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ AirTrack",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ GroundTrack",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ ReactiveTrack",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ TwisterTrack",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ LeapTrack",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ SwaySwitch",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ FloatSwitch",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ BounceSwitch",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ AscendSwitch",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ SnowSwitch",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ WarpSwitch",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ SlopeSwitch",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "XYZ WideSwitch",
+			"play_Count": 1
+		}
+	],
+	"description": "https://tinyurl.com/XYZBenchmarksHard",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsChatfraggingClutchFrag",
+	"version": 31,
+	"updated": 1758536477,
+	"isPrivate": false
+}

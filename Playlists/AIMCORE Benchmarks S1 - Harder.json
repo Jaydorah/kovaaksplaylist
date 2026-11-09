@@ -1,0 +1,87 @@
+﻿{
+	"playlistName": "AIMCORE Benchmarks S1 - Harder",
+	"playlistId": 489200,
+	"authorSteamId": "76561199090026891",
+	"authorName": "fae fawn",
+	"scenarioList": [
+		{
+			"scenario_name": "AC KittyClick Harder",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC BunnyClick Harder",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC PuppyClick Harder",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC MicroShot Harder",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC WideShot Harder",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC ClusterShot Harder",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC Driftsphere Harder",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC Arcstrafes Harder",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC FlowerXYZ Harder",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC AirDodge Harder",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC PlazaDodge Harder",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC RoboStrafes Harder",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC MicroTS Harder",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC PillTS Harder",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC SpeedTS 360 Harder",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC Wispswitch Harder",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC AirSwitch Harder",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AC EvaSwitch 360 Harder",
+			"play_Count": 1
+		}
+	],
+	"description": "Scenarios made by @robinwobin_",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsCounterstrafingBurntorangeTile",
+	"version": 31,
+	"updated": 1789129630,
+	"isPrivate": false
+}

@@ -1,0 +1,87 @@
+﻿{
+	"playlistName": "         cAt Benchmarks       [ H A R D ]",
+	"playlistId": 229616,
+	"authorSteamId": "76561199217111885",
+	"authorName": "wa11p1per the creator",
+	"scenarioList": [
+		{
+			"scenario_name": "cAt 3 cats wide",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt 5 cats micro",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt 4 cats",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt purrClick Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt pawClick Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt yarnClick Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt laserTrack Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt meowTrack Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt yarnTrack Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt sausageTrack Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt fluffyTrack Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt furTrack Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt mealSwitch Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt tabbySwitch Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt wobbleSwitch Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt tailSwitch Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt snortSwitch Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt yarnSwitch Hard",
+			"play_Count": 1
+		}
+	],
+	"description": "discord.gg/GcvFdnabGD",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsBloomingPeachArena",
+	"version": 31,
+	"updated": 1711379568,
+	"isPrivate": false
+}

@@ -1,0 +1,43 @@
+﻿{
+	"playlistName": "cA Ground Tracking Easy S1",
+	"playlistId": 464844,
+	"authorSteamId": "76561198325145665",
+	"authorName": "悪夢",
+	"scenarioList": [
+		{
+			"scenario_name": "cA REACTIVE Easy S1",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cA MFSI Easy S1",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cA FBS Easy S1",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cA SLIPPERY Easy S1",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cA VSS Easy S1",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cA FLUIDITY Easy S1",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cA XYZ Easy S1",
+			"play_Count": 1
+		}
+	],
+	"description": "                                                                             ",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsAdventuringRare90s",
+	"version": 31,
+	"updated": 1782194582,
+	"isPrivate": false
+}

@@ -1,0 +1,87 @@
+﻿{
+	"playlistName": "AIMERZ+ BENCHMARKS EASY S1",
+	"playlistId": 196784,
+	"authorSteamId": "76561199217111885",
+	"authorName": "wa11p1per the creator",
+	"scenarioList": [
+		{
+			"scenario_name": "Aimerz+ pipeClick Easy S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ hopClick Easy S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ sunClick Easy S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ ww2t Easy S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ 1w3ts Easy S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ 1w4ts HF Easy S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ Smoothbot Easy S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ PTI Easy S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ PreciseTrack Easy S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ PipeTrack Easy S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ VGS Easy S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ VAS Easy S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ pivoTS Easy S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ nuTS Easy S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ goaTS Easy S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ cheaTS Easy S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ hopTS Easy S1",
+			"play_Count": 13
+		},
+		{
+			"scenario_name": "Aimerz+ caTS Easy S1",
+			"play_Count": 13
+		}
+	],
+	"description": "@AimerzHQ, @wa11p1per, @KovaaKs",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsGearingGodlikeHipfire",
+	"version": 31,
+	"updated": 1697225716,
+	"isPrivate": false
+}

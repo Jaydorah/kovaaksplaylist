@@ -1,0 +1,63 @@
+﻿{
+	"playlistName": "Stellar - Speed Clicking Benchmarks",
+	"playlistId": 395667,
+	"authorSteamId": "76561199048920707",
+	"authorName": "✯ StanAims",
+	"scenarioList": [
+		{
+			"scenario_name": "Gridshot",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Tile Frenzy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "2 Tile Jumbo Tile Frenzy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Ballsheet BB",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Jumbo Tile Frenzy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Huge Poke Tile Frenzy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1wall9000targets",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Jumbo1wall9000targets",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Jumbo 1wall6targets TE",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Jumbo Tile Frenzy 180",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "6 Sphere Hipfire 200% Size",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "RawMouseControl Reload Easy",
+			"play_Count": 1
+		}
+	],
+	"description": "@StellarAiming on Twitter / X",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsStrikingRoyalpurpleArmor",
+	"version": 31,
+	"updated": 1763425473,
+	"isPrivate": false
+}

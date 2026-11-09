@@ -1,0 +1,43 @@
+﻿{
+	"playlistName": "Aimbeast Ground Advanced",
+	"playlistId": 489705,
+	"authorSteamId": "76561199159928133",
+	"authorName": "RVNG thundah",
+	"scenarioList": [
+		{
+			"scenario_name": "SouljahStrafes",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "StelosStrafes",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VexinStrafes",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "MbmStrafes",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "SleepStrafes",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "RobidashkaStrafes",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "FlickerStrafes",
+			"play_Count": 1
+		}
+	],
+	"description": "@RVNGCOLLECTIVE on Twitter/X.",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsCrankingJumboEco",
+	"version": 31,
+	"updated": 1787961348,
+	"isPrivate": false
+}

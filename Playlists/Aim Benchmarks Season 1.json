@@ -1,0 +1,63 @@
+﻿{
+	"playlistName": "Aim Benchmarks Season 1",
+	"playlistId": 307814,
+	"authorSteamId": "76561198066375616",
+	"authorName": "DrUninstall",
+	"scenarioList": [
+		{
+			"scenario_name": "Clicking Static 5",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Clicking 3 Wide",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Ground Tracking",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air Tracking 180",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Clicking Bounce",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Clicking Dodgy",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Smooth Vertical Tracking",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Smooth Tracking",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Switching Humanoid",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Switching Spheres",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Movement Tracking",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Movement Clicking Bounce",
+			"play_Count": 1
+		}
+	],
+	"description": "Official KovaaK's Aim Benchmarks. Season 1.",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsWinningAlmondForcebuy",
+	"version": 31,
+	"updated": 1737402339,
+	"isPrivate": false
+}

@@ -1,0 +1,123 @@
+﻿{
+	"playlistName": "CONTINIUM TacFPS Benchmarks E1",
+	"playlistId": 475007,
+	"authorSteamId": "76561198271696720",
+	"authorName": "skala",
+	"scenarioList": [
+		{
+			"scenario_name": "1w2ts Horizontalish",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1w3ts reload",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "devTS Static Click Angelic",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "RawMouseControlClicking3 30% smaller",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "eth 1w2tes Micro 20% Larger",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "uv VBR Micro 2ts",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1w2ts Pasu Horizontal",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Wavy Micros Intermediate",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1w3ts Pasu Perfected Micro Goated",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "FHTS Click 30% Smaller",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "HeadClick Altered",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "voxTargetClick 20% Small",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cloverRawControl",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Controlsphere Far Larger",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "e1se MicroTrack",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT Controlstrafes Valorant Harder",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Extra Controlsphere Horizontal",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Valorant Peektrack Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "vietTS Micro",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Amare GarfMicroTS",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AvomiTS Micro",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "StaticSwitchingVox xSmall",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "devTS Goated NR Static 5Bot",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "devts static regen",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Controlsphere TS",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "TamTS Warzone",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "devTS Goated rAim Small",
+			"play_Count": 1
+		}
+	],
+	"description": "CONTINIUM TacFPS Benchmarks Episode 1 - discord.gg/continium",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsBoomstickingGreenProjectile",
+	"version": 31,
+	"updated": 1787950344,
+	"isPrivate": false
+}

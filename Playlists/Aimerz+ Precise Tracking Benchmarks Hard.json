@@ -1,0 +1,63 @@
+﻿{
+	"playlistName": "Aimerz+ Precise Tracking Benchmarks Hard",
+	"playlistId": 247437,
+	"authorSteamId": "76561198269212415",
+	"authorName": "TRAGEDY",
+	"scenarioList": [
+		{
+			"scenario_name": "Smoothbot Pauer Glider",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Deceptive Tracking XYZ",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Smoothbot Pauer",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cloverRawControl",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Leapstrafes Control Phantasy 30% Smaller",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Aimerz+ PreciseTrack S1 Modified",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "     CB SmoothTrack",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "tamAngleSmoothness",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Extra Controlsphere",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Whisphere Small & Slow",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Aimerz+ PTI Med S1",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Bouncesphere Smooth",
+			"play_Count": 1
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsDeathballingForestgreenAp",
+	"version": 31,
+	"updated": 1793309401,
+	"isPrivate": false
+}

@@ -1,0 +1,87 @@
+﻿{
+	"playlistName": "Voltaic Benchmarks S5 Expanded - Elite",
+	"playlistId": 303656,
+	"authorSteamId": "76561199022492743",
+	"authorName": "4rK",
+	"scenarioList": [
+		{
+			"scenario_name": "VT Pasu Elite S5",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT Popcorn Elite S5",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT 1w2ts Elite S5",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT ww5t Elite S5",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT Frogtagon Elite S5",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT Floating Heads Elite S5",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT PGT Elite S5",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT Snake Track Elite S5",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT Aether Elite S5",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT Ground Elite S5",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT Raw Control Elite S5",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT Controlsphere Elite S5",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT DotTS Elite S5",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT EddieTS Elite S5",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT DriftTS Elite S5",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT FlyTS Elite S5",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT ControlTS Elite S5",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VT Penta Bounce Elite S5",
+			"play_Count": 1
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsMainingIndigoPatrol",
+	"version": 31,
+	"updated": 1738434358,
+	"isPrivate": false
+}

@@ -1,0 +1,63 @@
+﻿{
+	"playlistName": "S1 MIRA Iniciante Benchmarks",
+	"playlistId": 185799,
+	"authorSteamId": "76561198114073067",
+	"authorName": "MIRA candy",
+	"scenarioList": [
+		{
+			"scenario_name": "Multiclick Easy MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Fiveshot Easy MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Bounceshot Easy MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Pasu Easy MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Smoothbot Easy MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "PTI Easy MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Plaza Easy MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AA4 Easy MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VelozSwitch Easy MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "kndTS Wide Easy MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "r3dSwitch Easy MIRA",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "FugaSwitch Easy MIRA Fixed",
+			"play_Count": 1
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsCarryingSlowGauntlet",
+	"version": 31,
+	"updated": 1691939762,
+	"isPrivate": false
+}

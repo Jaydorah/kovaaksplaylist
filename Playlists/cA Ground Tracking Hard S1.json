@@ -1,0 +1,43 @@
+﻿{
+	"playlistName": "cA Ground Tracking Hard S1",
+	"playlistId": 463616,
+	"authorSteamId": "76561198325145665",
+	"authorName": "悪夢",
+	"scenarioList": [
+		{
+			"scenario_name": "cA REACTIVE Hard S1",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cA MFSI Hard S1",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cA FBS Hard S1",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cA SLIPPERY Hard S1",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cA VSS Hard S1",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cA FLUIDITY Hard S1",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cA XYZ Hard S1",
+			"play_Count": 1
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsRoamingWhiteClip",
+	"version": 31,
+	"updated": 1782194594,
+	"isPrivate": false
+}

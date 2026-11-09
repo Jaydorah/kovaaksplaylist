@@ -1,0 +1,107 @@
+﻿{
+	"playlistName": "Tammas Advanced Balanced",
+	"playlistId": 305124,
+	"authorSteamId": "76561198335107882",
+	"authorName": "SrvGD",
+	"scenarioList": [
+		{
+			"scenario_name": "psalmflick Strafing Tracking",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "Air II Angelic+",
+			"play_Count": 5
+		},
+		{
+			"scenario_name": "pasu small reload",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "Close Fast Strafes Invincible - Thin",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "patTargetSwitch Dodge 360 v2",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "voxTargetSwitch 250%",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "Ground Plaza",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "Floating Heads Timing 400% FIXED",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "1wall6 Flick Small+",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "psalmflick Strafing SSR",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "Bounce TS Dodge Park",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "tamTargetSwitch Smooth Hard",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "SmoothBot Invincible Goated",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "Popcorn Sparky",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "kinTS NR",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "Flicker Plaza",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "lgc3 Reborn Varied",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "Air Dodge II",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "Bounce 180 Tracking Small",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "patTargetClick",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "voxTargetSwitch",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "PSGS Small",
+			"play_Count": 10
+		},
+		{
+			"scenario_name": "Wide Wall 6Targets",
+			"play_Count": 10
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsCapturingForestgreenFieldupgrade",
+	"version": 31,
+	"updated": 1736538514,
+	"isPrivate": false
+}

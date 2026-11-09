@@ -1,0 +1,111 @@
+﻿{
+	"playlistName": "Revosect S5 - Entry",
+	"playlistId": 385026,
+	"authorSteamId": "76561199090026891",
+	"authorName": "fae fawn",
+	"scenarioList": [
+		{
+			"scenario_name": "EvoClick Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "StrawberryClick Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1w5ts vbr Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1w4t Pressure Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Pasu Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "SpringClick Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "SnowClick Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Floating Heads Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "FloodTrack Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VTP Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Tornadosphere Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Leapstrafes Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Plaza Pure Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Plaza Smooth Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air Pure Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air Smooth Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AngleSwitch Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "DotSwitch Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "NovaSwitch Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "WaveSwitch Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "SpringTS Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "WhisphereTS Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "PasuTS Revosect Entry",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "SmoothTS Revosect Entry",
+			"play_Count": 1
+		}
+	],
+	"description": "@robinwobin_",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsAfkingSalmonNuns",
+	"version": 31,
+	"updated": 1760021031,
+	"isPrivate": false
+}

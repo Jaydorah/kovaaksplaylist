@@ -1,0 +1,63 @@
+﻿{
+	"playlistName": "Dynamic Clicking Benchmarks Hard",
+	"playlistId": 419498,
+	"authorSteamId": "76561199025798490",
+	"authorName": "eilish",
+	"scenarioList": [
+		{
+			"scenario_name": "pasu small reload",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1w4t Pasu Raspberry Grandmaster",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt purrClick Hard",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1wall5targets_pasu Reload",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "psalmTS angelic click",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Leapcorn Pure",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "beanClick 250% Speed",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Star Clicking - @wa11p1per",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Popcorn Goated rAim",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Pasu Angelic",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Aimerz+ hopClick Med S1",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Controlsphere Click",
+			"play_Count": 1
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsTrollingPlumPlunder",
+	"version": 31,
+	"updated": 1769974406,
+	"isPrivate": false
+}

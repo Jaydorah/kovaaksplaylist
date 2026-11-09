@@ -1,0 +1,63 @@
+﻿{
+	"playlistName": "SpeedTS Benchmarks Easy",
+	"playlistId": 419496,
+	"authorSteamId": "76561199025798490",
+	"authorName": "eilish",
+	"scenarioList": [
+		{
+			"scenario_name": "StaticSwitchingVox xxSmall",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "DotTS 30% Larger",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "voxTS Viscose Varied",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "patCircleSwitch NR",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "patTargetSwitch 90 LowTTK",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "beanTS",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Target Switching 360",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "voxTargetSwitch 2",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Aimerz+ goaTS Med S1",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Aimerz+ nuTS Med S1",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Aimerz+ Week #5 - Static Switching",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "360 Static TS",
+			"play_Count": 1
+		}
+	],
+	"description": "",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsTimewarpingPickedClutch",
+	"version": 31,
+	"updated": 1769974350,
+	"isPrivate": false
+}

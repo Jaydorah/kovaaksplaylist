@@ -1,0 +1,111 @@
+﻿{
+	"playlistName": "Revosect S5 - Advanced",
+	"playlistId": 385024,
+	"authorSteamId": "76561199090026891",
+	"authorName": "fae fawn",
+	"scenarioList": [
+		{
+			"scenario_name": "EvoClick Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "StrawberryClick Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1w5ts vbr Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "1w4t Pressure Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Pasu Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "SpringClick Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "SnowClick Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Floating Heads Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "FloodTrack Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "VTP Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Tornadosphere Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Leapstrafes Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Plaza Pure Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Plaza Smooth Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air Pure Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "Air Smooth Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "AngleSwitch Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "DotSwitch Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "NovaSwitch Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "WaveSwitch Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "SpringTS Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "WhisphereTS Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "PasuTS Revosect",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "SmoothTS Revosect",
+			"play_Count": 1
+		}
+	],
+	"description": "@robinwobin_",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsAdsingRoyalpurpleChat",
+	"version": 31,
+	"updated": 1760021002,
+	"isPrivate": false
+}

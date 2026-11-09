@@ -1,0 +1,87 @@
+﻿{
+	"playlistName": "         cAt Benchmarks       [ N O R M A L ]",
+	"playlistId": 229615,
+	"authorSteamId": "76561199217111885",
+	"authorName": "wa11p1per the creator",
+	"scenarioList": [
+		{
+			"scenario_name": "cAt 3 cats wide",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt 5 cats micro",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt 4 cats",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt purrClick Normal",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt pawClick Normal",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt yarnClick Normal",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt laserTrack Normal",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt meowTrack Normal",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt yarnTrack Normal",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt sausageTrack Normal",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt fluffyTrack Normal",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt furTrack Normal",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt mealSwitch Normal",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt tabbySwitch Normal",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt wobbleSwitch Normal",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt tailSwitch Normal",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt snortSwitch Normal",
+			"play_Count": 1
+		},
+		{
+			"scenario_name": "cAt yarnSwitch Normal",
+			"play_Count": 1
+		}
+	],
+	"description": "discord.gg/GcvFdnabGD",
+	"hasOfflineScenarios": true,
+	"hasEdited": false,
+	"shareCode": "KovaaKsBlinkingOrangeCrossfire",
+	"version": 31,
+	"updated": 1711379534,
+	"isPrivate": false
+}
