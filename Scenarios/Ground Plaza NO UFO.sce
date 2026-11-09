@@ -1,4 +1,4 @@
-Name=Ground Plaza
+Name=Ground Plaza NO UFO
 PlayerCharacters=A
 BotCharacters=plaza rotation hin hin.rot
 IsChallenge=true

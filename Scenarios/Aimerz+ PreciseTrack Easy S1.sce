@@ -1,4 +1,4 @@
-Name=Aimerz+ PreciseTrack Easy S2
+Name=Aimerz+ PreciseTrack Easy S1
 PlayerCharacters=Player
 BotCharacters=test of the test.bot
 IsChallenge=true

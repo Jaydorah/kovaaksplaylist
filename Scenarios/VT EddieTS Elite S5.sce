@@ -1,4 +1,4 @@
-Name=VT EddieTS Advanced S5
+Name=VT EddieTS Elite S5
 PlayerCharacters=Player
 BotCharacters=Greeble Rot.rot
 IsChallenge=true

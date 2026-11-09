@@ -1,4 +1,4 @@
-Name=Aimerz+ pivoTS Hard S2
+Name=Aimerz+ pivoTS Hard S1
 PlayerCharacters=Character Profile
 BotCharacters=Quaker Bot Long Strafes.bot
 IsChallenge=true

@@ -1,4 +1,4 @@
-Name=VT Pasu Advanced S5
+Name=VT Pasu Elite S5
 PlayerCharacters=Player
 BotCharacters=Pasu Bot.bot;Knocker 1.bot;knocker 2a.bot;knocker 2b.bot;knocker 3a.bot;knocker 3b.bot
 IsChallenge=true

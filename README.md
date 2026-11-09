@@ -3,11 +3,11 @@ every playlist from [exvl](https://evxl.app/)
 
 
 # Installation
-find the kovaaks folder then go to
+FPSAimTrainer/Saved/SaveGames/
 
-FPSAimTrainer/Saved/SavedGames/
+move everything from this repo to there
 
-move everything to there
+This puts the scenarios in Saved/SaveGames/Scenarios/ so they show up under local scenarios instead of needing a download.
 
 # Why was this made
 I have less and less wifi access over the days since some wars and since kovaaks is known to break when its offline. this repo already does the playlist fixes for offline usage

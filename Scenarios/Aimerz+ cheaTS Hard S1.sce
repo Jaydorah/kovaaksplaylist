@@ -1,4 +1,4 @@
-Name=Aimerz+ cheaTS Hard S2
+Name=Aimerz+ cheaTS Hard S1
 PlayerCharacters=Quakerp
 BotCharacters=Quaker Bot Long Strafes.bot
 IsChallenge=true

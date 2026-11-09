@@ -1,4 +1,4 @@
-Name=VT Floating Heads Advanced S5
+Name=VT Floating Heads Elite S5
 PlayerCharacters=Player
 BotCharacters=Head Bot.bot
 IsChallenge=true

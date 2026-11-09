@@ -1,4 +1,4 @@
-Name=VT 1w2ts Advanced S5
+Name=VT 1w2ts Elite S5
 PlayerCharacters=Player
 BotCharacters=target.bot
 IsChallenge=true

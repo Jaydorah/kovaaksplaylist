@@ -1,4 +1,4 @@
-Name=Aimerz+ VGS Hard S2
+Name=Aimerz+ VGS Hard S1
 PlayerCharacters=A
 BotCharacters=VGS.rot
 IsChallenge=true

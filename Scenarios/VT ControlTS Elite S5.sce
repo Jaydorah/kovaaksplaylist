@@ -1,4 +1,4 @@
-Name=VT ControlTS Advanced S5
+Name=VT ControlTS Elite S5
 PlayerCharacters=Player
 BotCharacters=Sphere Bot.bot
 IsChallenge=true

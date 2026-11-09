@@ -1,4 +1,4 @@
-Name=Aimerz+ hopTS Hard S2
+Name=Aimerz+ hopTS Hard S1
 PlayerCharacters=Character Profile
 BotCharacters=hopTS.rot
 IsChallenge=true

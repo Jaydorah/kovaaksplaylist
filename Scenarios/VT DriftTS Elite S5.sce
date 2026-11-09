@@ -1,4 +1,4 @@
-Name=VT DriftTS Advanced S5
+Name=VT DriftTS Elite S5
 PlayerCharacters=Player
 BotCharacters=Drifter Bot.bot
 IsChallenge=true

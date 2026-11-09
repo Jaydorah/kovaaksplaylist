@@ -1,4 +1,4 @@
-Name=VT Ground Advanced S5
+Name=VT Ground Elite S5
 PlayerCharacters=Player
 BotCharacters=ground Rot.rot
 IsChallenge=true

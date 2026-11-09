@@ -1,4 +1,4 @@
-Name=eth 1w2tes Micro 
+Name=eth 1w2tes Micro
 PlayerCharacters=A_air_pistol_frozen
 BotCharacters=target.bot
 IsChallenge=true

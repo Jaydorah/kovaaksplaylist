@@ -1,4 +1,4 @@
-Name=Aimerz+ 1w4ts HF Hard S2
+Name=Aimerz+ 1w4ts HF Hard S1
 PlayerCharacters=16ML9 - 080
 BotCharacters=TileFrenzy Sphere.bot
 IsChallenge=true

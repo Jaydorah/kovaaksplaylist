@@ -1,4 +1,4 @@
-Name=VT DotTS Advanced S5
+Name=VT DotTS Elite S5
 PlayerCharacters=Player
 BotCharacters=Dot Bot.bot
 IsChallenge=true

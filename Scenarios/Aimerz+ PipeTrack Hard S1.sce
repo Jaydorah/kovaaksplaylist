@@ -1,4 +1,4 @@
-Name=Aimerz+ PipeTrack Hard S2
+Name=Aimerz+ PipeTrack Hard S1
 PlayerCharacters=Player
 BotCharacters=target.bot
 IsChallenge=true

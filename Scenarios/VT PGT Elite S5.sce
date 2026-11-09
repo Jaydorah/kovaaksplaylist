@@ -1,4 +1,4 @@
-Name=VT PGT Advanced S5
+Name=VT PGT Elite S5
 PlayerCharacters=Player
 BotCharacters=Bounce Rot.rot
 IsChallenge=true

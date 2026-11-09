@@ -1,4 +1,4 @@
-Name=VT Penta Bounce Advanced S5
+Name=VT Penta Bounce Elite S5
 PlayerCharacters=Player
 BotCharacters=Bouncer Bot.bot
 IsChallenge=true

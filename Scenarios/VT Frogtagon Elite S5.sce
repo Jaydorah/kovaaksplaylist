@@ -1,4 +1,4 @@
-Name=VT Frogtagon Advanced S5
+Name=VT Frogtagon Elite S5
 PlayerCharacters=Player
 BotCharacters=Frog Bot.bot
 IsChallenge=true

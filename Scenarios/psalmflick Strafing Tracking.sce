@@ -1,4 +1,4 @@
-Name=psalmflick TPS Strafing Tracking
+Name=psalmflick Strafing Tracking
 PlayerCharacters=Player
 BotCharacters=target.bot
 IsChallenge=true

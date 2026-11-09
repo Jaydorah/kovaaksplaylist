@@ -1,4 +1,4 @@
-Name=VT Popcorn Advanced S5
+Name=VT Popcorn Elite S5
 PlayerCharacters=Player
 BotCharacters=Popcorn Rot.rot
 IsChallenge=true

@@ -1,4 +1,4 @@
-Name=1w2ts Pasu Perfected 30% Smaller 
+Name=1w2ts Pasu Perfected 30% Smaller
 PlayerCharacters=A_air_pistol_frozen
 BotCharacters=air1_far_short.bot
 IsChallenge=true

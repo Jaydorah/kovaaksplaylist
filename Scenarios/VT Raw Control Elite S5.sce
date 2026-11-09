@@ -1,4 +1,4 @@
-Name=VT Raw Control Advanced S5
+Name=VT Raw Control Elite S5
 PlayerCharacters=Player
 BotCharacters=Control Bot.bot;Repel B Bot.bot;Repel D Bot.bot;Repel F Bot.bot;Repel L Bot.bot;Repel R Bot.bot;Repel U Bot.bot
 IsChallenge=true

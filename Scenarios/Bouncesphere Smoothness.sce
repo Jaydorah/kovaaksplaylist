@@ -1,4 +1,4 @@
-Name=Bouncesphere Smoothness 
+Name=Bouncesphere Smoothness
 PlayerCharacters=pistol Launchman
 BotCharacters=PigeonTest.bot
 IsChallenge=true

@@ -1,4 +1,4 @@
-﻿Name=Whisphere Extra Small & Slow 
+﻿Name=Whisphere Extra Small & Slow
 PlayerCharacters=A_air_pistol_frozen
 BotCharacters=test.bot
 IsChallenge=true

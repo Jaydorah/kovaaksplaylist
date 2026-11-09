@@ -1,4 +1,4 @@
-Name=Aimerz+ Smoothbot Hard S2
+Name=Aimerz+ Smoothbot Hard S1
 PlayerCharacters=Quaker
 BotCharacters=SmoothBot.bot
 IsChallenge=true

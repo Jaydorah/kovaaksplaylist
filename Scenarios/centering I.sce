@@ -1,4 +1,4 @@
-Name=Centering i
+Name=centering I
 PlayerCharacters=Quaker
 BotCharacters=Quaker Bot Fast Strafes.bot
 IsChallenge=true

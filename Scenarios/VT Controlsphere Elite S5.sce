@@ -1,4 +1,4 @@
-Name=VT Controlsphere Advanced S5
+Name=VT Controlsphere Elite S5
 PlayerCharacters=Player
 BotCharacters=Sphere Bot.bot;Repel D Bot.bot;Repel U Bot.bot
 IsChallenge=true

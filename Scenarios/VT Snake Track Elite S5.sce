@@ -1,4 +1,4 @@
-Name=VT Snake Track Advanced S5
+Name=VT Snake Track Elite S5
 PlayerCharacters=Player
 BotCharacters=Snake.bot
 IsChallenge=true

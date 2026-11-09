@@ -1,4 +1,4 @@
-Name=Aimerz+ caTS Hard S2
+Name=Aimerz+ caTS Hard S1
 PlayerCharacters=Player
 BotCharacters=caTS.bot
 IsChallenge=true

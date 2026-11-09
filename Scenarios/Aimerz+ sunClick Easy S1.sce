@@ -1,4 +1,4 @@
-Name=Aimerz+ sunClick Easy S2
+Name=Aimerz+ sunClick Easy S1
 PlayerCharacters=A_air_pistol_frozen
 BotCharacters=test.bot
 IsChallenge=true
